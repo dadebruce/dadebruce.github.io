@@ -1,6 +1,5 @@
-## Karl Broman&rsquo;s website
+## David DeBruce&rsquo;s website
 
-See [kbroman.org](http://kbroman.org).
 
 ---
 
