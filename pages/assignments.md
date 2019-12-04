@@ -24,7 +24,7 @@ description: David DeBruce's assignments
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-[assignment1 results](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/HW1_v1.ipynb)| [assignment1 repositiory](https://github.com/dadebruce/dadebruce.github.io/tree/master/EMSEDataAnalytics-master/EMSE6992_Assignments)
+[Notebook](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/HW1_v1.ipynb)| [Repo](https://github.com/dadebruce/dadebruce.github.io/tree/master/EMSEDataAnalytics-master/EMSE6992_Assignments)
 
 ---
 
@@ -33,7 +33,7 @@ description: David DeBruce's assignments
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/HW2.ipynb)| [assignment2 repositiory](https://github.com/dadebruce/dadebruce.github.io/tree/master/EMSEDataAnalytics-master/EMSE6992_Assignments)|
+| [Notebook](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/HW2.ipynb)| [Repo](https://github.com/dadebruce/dadebruce.github.io/tree/master/EMSEDataAnalytics-master/EMSE6992_Assignments)|
 
 ---
 
@@ -43,7 +43,7 @@ description: David DeBruce's assignments
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/HW3_v1.ipynb)| [assignment3 repositiory](https://github.com/dadebruce/dadebruce.github.io/tree/master/EMSEDataAnalytics-master/EMSE6992_Assignments)|
+| [Notebook](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/HW3_v1.ipynb)| [Repo](https://github.com/dadebruce/dadebruce.github.io/tree/master/EMSEDataAnalytics-master/EMSE6992_Assignments)|
 
 ---
 
@@ -54,7 +54,7 @@ description: David DeBruce's assignments
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment4 results]()| [assignment4 repositiory]()|
+| [Notebook]()| [Repo]()|
 
 ---
 
