@@ -21,26 +21,26 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/publpics/heatmap.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="Heatmap"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
+    <a href="pages/publpics/pairplot.html">
         <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        al. (2016) Fig 4" title="Pair Plot"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/diagonal.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="diagonal"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/F1score.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="F1score"/>
     </a>
   </td>
 </tr>
