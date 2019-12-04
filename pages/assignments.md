@@ -52,9 +52,9 @@ description: David DeBruce's assignments
 ####  <a name="Project"></a>Project
 
 
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [Notebook]()| [Repo]()|
+| Results                | Repository                 | Results                |
+| ---------------------- |:--------------------------:|:----------------------:|
+| [Report]()| [Presentation]()| [Notebook]()|
 
 ---
 
