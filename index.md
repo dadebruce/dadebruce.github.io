@@ -10,8 +10,7 @@ keywords: statistics, data analytics
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/ddebruce/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
