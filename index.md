@@ -8,7 +8,6 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/dadebruce">github</a></li>
           <li><a href="https://www.linkedin.com/in/ddebruce/">LinkedIn</a></li>
       </ul>
