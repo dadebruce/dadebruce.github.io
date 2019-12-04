@@ -54,7 +54,7 @@ description: David DeBruce's assignments
 
 | Results                | Repository                 | Results                |
 | ---------------------- |:--------------------------:|:----------------------:|
-| [Report](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/Report.pdf)| [Presentation](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/Presentation.pdf)| [Notebook](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/PROJECT.ipynb)|
+| [Report](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/Final-Paper.pdf)| [Presentation](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/Presentation.pdf)| [Notebook](https://github.com/dadebruce/dadebruce.github.io/blob/master/EMSEDataAnalytics-master/EMSE6992_Assignments/PROJECT.ipynb)|
 
 ---
 
