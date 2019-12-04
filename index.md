@@ -9,7 +9,7 @@ keywords: statistics, data analytics
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
+          <li><a href="https://github.com/dadebruce">github</a></li>
           <li><a href="https://www.linkedin.com/in/ddebruce/">LinkedIn</a></li>
       </ul>
   </div>
@@ -21,12 +21,12 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/heatmap.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="Heatmap"/>
+        <img src="assets/publpics/heatmap.png" alt="R/qtlcharts example" title="Heatmap"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/pairplot.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        <img src="assets/publpics/pairplot.png" alt="Tian et
         al. (2016) Fig 4" title="Pair Plot"/>
     </a>
   </td>
@@ -34,12 +34,12 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/diagonal.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="diagonal"/>
+        <img src="assets/publpics/diagonal.png" alt="Broman et al. (2013) Fig 7" title="diagonal"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/F1score.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="F1score"/>
+        <img src="assets/publpics/F1score.png" alt="Tian et al. (2015) Fig 4" title="F1score"/>
     </a>
   </td>
 </tr>
